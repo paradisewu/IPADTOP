@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <controlData controlType="Computer" projectType="ItemOne" operationType="Open" commandMsg="3A 00 00 01 00 03 05 0D FF 00 01 01 55" />
+  <controlData controlType="Computer" projectType="ItemOne" operationType="Close" commandMsg="3A 00 00 01 00 03 05 0D FF 00 01 00 55" />
+  <controlData controlType="Computer" projectType="ItemTwo" operationType="Open" commandMsg="3A 00 00 01 00 03 05 0D FF 00 02 01 55" />
+  <controlData controlType="Computer" projectType="ItemTwo" operationType="Close" commandMsg="3A 00 00 01 00 03 05 0D FF 00 02 00 55" />
+  <controlData controlType="Computer" projectType="ItemThree" operationType="Open" commandMsg="3A 00 00 01 00 03 05 0D FF 00 03 01 55" />
+  <controlData controlType="Computer" projectType="ItemThree" operationType="Close" commandMsg="3A 00 00 01 00 03 05 0D FF 00 03 00 55" />
+
+
+  <controlData controlType="Projector" projectType="ItemOne" operationType="Open" commandMsg="3A 00 00 01 00 04 04 0D 41 30 30 0d" />
+  <controlData controlType="Projector" projectType="ItemOne" operationType="Close" commandMsg="3A 00 00 01 00 04 04 0D 41 30 31 0d" />
+  <controlData controlType="Projector" projectType="ItemTwo" operationType="Open" commandMsg="3A 00 00 01 00 04 04 0D 41 30 30 0d" />
+  <controlData controlType="Projector" projectType="ItemTwo" operationType="Close" commandMsg="3A 00 00 01 00 04 04 0D 41 30 31 0d" />
+  <controlData controlType="Projector" projectType="ItemThree" operationType="Open" commandMsg="3A 00 00 01 00 04 08 0D 23 50 57 52 30 2c 31 21" />
+  <controlData controlType="Projector" projectType="ItemThree" operationType="Close" commandMsg="3A 00 00 01 00 04 08 0D 23 50 57 52 30 2c 30 21" />
+
+
+  <controlData controlType="Lighting" projectType="ItemOne" operationType="Open" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Lighting" projectType="ItemOne" operationType="Close" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Lighting" projectType="ItemTwo" operationType="Open" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Lighting" projectType="ItemTwo" operationType="Close" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Lighting" projectType="ItemThree" operationType="Open" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Lighting" projectType="ItemThree" operationType="Close" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+
+
+  <controlData controlType="Sound" projectType="ItemOne" operationType="Quite" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Sound" projectType="ItemOne" operationType="Sub" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Sound" projectType="ItemOne" operationType="Add" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Sound" projectType="ItemTwo" operationType="Quite" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Sound" projectType="ItemTwo" operationType="Sub" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Sound" projectType="ItemTwo" operationType="Add" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Sound" projectType="ItemThree" operationType="Quite" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Sound" projectType="ItemThree" operationType="Sub" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Sound" projectType="ItemThree" operationType="Add" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+
+
+  <controlData controlType="Software" projectType="ItemOne" operationType="Play" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Software" projectType="ItemOne" operationType="Pause" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Software" projectType="ItemOne" operationType="Stop" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Software" projectType="ItemTwo" operationType="Play" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Software" projectType="ItemTwo" operationType="Pause" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Software" projectType="ItemTwo" operationType="Stop" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Software" projectType="ItemThree" operationType="Play" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Software" projectType="ItemThree" operationType="Pause" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+  <controlData controlType="Software" projectType="ItemThree" operationType="Stop" commandMsg="3A 00 00 01 00 03 05 0D 02 50 4F 4E 03" />
+</root>

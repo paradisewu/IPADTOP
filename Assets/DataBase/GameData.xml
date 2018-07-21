@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyData>
+  <ControlData controltype="Computer">
+    <ProjectData projectname="项目1">
+      <OperationData operationType="">
+        
+      </OperationData>
+    </ProjectData>
+    <ProjectData projectname="项目2">
+
+    </ProjectData>
+    <ProjectData projectname="项目3">
+
+    </ProjectData>
+  </ControlData>
+  <ControlData controltype="Projector">
+    <ProjectData projectname="项目1">
+
+    </ProjectData>
+    <ProjectData projectname="项目2">
+
+    </ProjectData>
+    <ProjectData projectname="项目3">
+
+    </ProjectData>
+  </ControlData>
+  <ControlData controltype="Lighting">
+    <ProjectData projectname="项目1">
+
+    </ProjectData>
+    <ProjectData projectname="项目2">
+
+    </ProjectData>
+    <ProjectData projectname="项目3">
+
+    </ProjectData>
+  </ControlData>
+  <ControlData controltype="Sound">
+    <ProjectData projectname="项目1">
+
+    </ProjectData>
+    <ProjectData projectname="项目2">
+
+    </ProjectData>
+    <ProjectData projectname="项目3">
+
+    </ProjectData>
+  </ControlData>
+  <ControlData controltype="Software">
+    <ProjectData projectname="项目1">
+
+    </ProjectData>
+    <ProjectData projectname="项目2">
+
+    </ProjectData>
+    <ProjectData projectname="项目3">
+
+    </ProjectData>
+  </ControlData>
+</MyData>
